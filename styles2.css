@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+}
+h1 {
+	font-size: 5rem;
+}
+h2 {
+	font-size: 2rem;
+	text-align: center;
+}
+h3
+{
+	font-size: 1rem;
+}
+#main{
+	margin: 3rem 1rem;
+	padding: 1.5rem;
+}
+@media (max-widht: 640px){
+	#main {
+		margin: 0;
+	}
+}
+img {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+#img-div{
+	align-items: center;
+}
+ul {
+	line-height: 1.5;
+}
+li {
+	text-align: left;
+	font-size: 1.5	rem;
+}
+#basic-info {
+font-size: 2rem;
+}
+
