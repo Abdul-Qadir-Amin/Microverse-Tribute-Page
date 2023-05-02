@@ -1,5 +1,6 @@
 body{
 	text-align: center;
+	background-color: #eee;
 }
 h1 {
 	font-size: 5rem;
@@ -24,7 +25,8 @@ h3
 img {
 	max-width: 100%;
 	display: block;
-	margin: 0 auto;
+	width: 1000px;
+	height: 600px;
 }
 #img-div{
 	align-items: center;
@@ -38,5 +40,8 @@ li {
 }
 #basic-info {
 font-size: 2rem;
+}
+#img-caption{
+	font-weight: bold;
 }
 
